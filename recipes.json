@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "photo": "https://www.giallozafferano.it/images/235-23589/Spaghetti-alla-Carbonara_650x433_wm.jpg",
+    "photo": "https://www.mamablip.com/storage/Traditional-Spaghetti-alla-Carbonara_1131611747132.jpg",
     "title": "Spaghetti Carbonara",
     "author": "Luca Bianchi",
     "prep_time": "20 minutes",
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "photo": "https://www.ricetteperbimby.it/wp-content/uploads/2021/11/sushi-misto-bimby.jpg",
+    "photo": "https://www.giallozafferano.it/images/229-22992/Riso-alla-cantonese_650x433_wm.jpg",
     "title": "Mixed Sushi",
     "author": "Haruki Tanaka",
     "prep_time": "50 minutes",
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "photo": "https://www.ricettedalmondo.it/images/foto-ricette/p/3704-pad-thai.jpg",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/3/39/Phat_Thai_kung_Chang_Khien_street_stall.jpg",
     "title": "Pad Thai",
     "author": "Somsak Prasert",
     "prep_time": "30 minutes",
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "photo": "https://static.cookist.it/wp-content/uploads/sites/21/2022/07/lasagne-alla-bolognese-1.jpg",
+    "photo": "https://www.cucchiaio.it/content/cucchiaio/it/ricette/2009/12/ricetta-lasagne-bolognese/_jcr_content/header-par/image_single.img.jpg/1734941205384.jpg",
     "title": "Lasagna Bolognese",
     "author": "Giulia Rossi",
     "prep_time": "90 minutes",
